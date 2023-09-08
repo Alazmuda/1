@@ -1,0 +1,15 @@
+#blok{
+    width: 400pt; 
+    height: 3cm; 
+    padding: 30px; 
+    margin: 20px; 
+    font-size: 15px; 
+    border: 4px double rgb(55, 73, 51); 
+    background: rgb(115, 153, 117);
+}
+
+body{
+    background-color:#506d50 ;
+    padding-left:30px;
+}
+
